@@ -47,11 +47,3 @@ Abaixo estão as linguagens, frameworks e ferramentas que utilizo ou já utilize
 ![Cordova](https://img.shields.io/badge/Cordova-E8E8E8?style=for-the-badge&logo=apachecordova&logoColor=black)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ---
-
-# 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinilima2&locale=en&layout=compact&theme=radical" alt="Languages" />
-
-#
-
-<img src="https://github-readme-stats.vercel.app/api?username=vinilima2&locale=en&layout=compact&theme=radical" alt="Stats" />
